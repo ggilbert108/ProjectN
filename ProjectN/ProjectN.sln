@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectN.Web", "ProjectN.Web\ProjectN.Web.csproj", "{71377E0C-5F5C-4328-9601-70525BBEB0B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectN.Graph", "ProjectN.Graph\ProjectN.Graph.csproj", "{7136103F-6CC6-4637-8C84-D9B3CB698933}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectN.Panel", "ProjectN.Panel\ProjectN.Panel.csproj", "{514F49AB-2768-4E38-8017-07C0DF1CC82A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{71377E0C-5F5C-4328-9601-70525BBEB0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71377E0C-5F5C-4328-9601-70525BBEB0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71377E0C-5F5C-4328-9601-70525BBEB0B7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7136103F-6CC6-4637-8C84-D9B3CB698933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7136103F-6CC6-4637-8C84-D9B3CB698933}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7136103F-6CC6-4637-8C84-D9B3CB698933}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7136103F-6CC6-4637-8C84-D9B3CB698933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514F49AB-2768-4E38-8017-07C0DF1CC82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514F49AB-2768-4E38-8017-07C0DF1CC82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514F49AB-2768-4E38-8017-07C0DF1CC82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514F49AB-2768-4E38-8017-07C0DF1CC82A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
